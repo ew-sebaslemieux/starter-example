@@ -1,0 +1,9 @@
+uuid: 81327a4a-0878-499b-b52a-f9a745aedee6
+langcode: en
+status: true
+dependencies: {  }
+name: 'Diet types'
+vid: diet_types
+description: null
+weight: 0
+new_revision: false
